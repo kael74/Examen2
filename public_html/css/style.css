@@ -1,0 +1,53 @@
+*{
+    margin: 0 auto;
+}
+body {
+  margin: 10px;
+  background: #00cccc;
+}
+#login{
+    position: absolute;
+    top:50%;
+    left:50%;
+    margin-top:-100px;
+    margin-left: -100px; 
+    width: 200px;
+    height: auto;
+    border:#122b40 solid 2px;
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+    background: white;
+}
+#present{
+    width: 100%;
+    margin: 0px auto;
+}
+.blacksoul{
+    background: #000000;
+}
+#css1{
+    background: green;
+    color: black;
+    height: 30px;
+}
+#css2{
+    float:left;
+    background: white;
+    color: black;
+    height: 30px;
+}
+#css3{
+    float:right;
+     background: white;
+    color: black;
+    height: 30px;
+}
+#css1:hover{
+    background: pink;
+    height: 30px;
+}
+#hood{
+    clear: both;
+    display: inline-block;    
+}
